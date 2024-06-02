@@ -1,0 +1,15 @@
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\bin\Debug\net8.0\Triangle_Type_Identifier.exe
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\bin\Debug\net8.0\Triangle_Type_Identifier.deps.json
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\bin\Debug\net8.0\Triangle_Type_Identifier.runtimeconfig.json
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\bin\Debug\net8.0\Triangle_Type_Identifier.dll
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\bin\Debug\net8.0\Triangle_Type_Identifier.pdb
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\Triangle_Type_Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\Triangle_Type_Identifier.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\Triangle_Type_Identifier.AssemblyInfo.cs
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\Triangle_Type_Identifier.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\Triangle_Type_Identifier.sourcelink.json
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\Triangle_Type_Identifier.dll
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\refint\Triangle_Type_Identifier.dll
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\Triangle_Type_Identifier.pdb
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\Triangle_Type_Identifier.genruntimeconfig.cache
+C:\Users\angel\Desktop\Danny\dcit318-assignment1-10986176\Ticket Price Calculator\Triangle Type Identifier\Triangle_Type_Identifier\obj\Debug\net8.0\ref\Triangle_Type_Identifier.dll
